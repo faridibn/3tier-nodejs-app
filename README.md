@@ -1,4 +1,4 @@
-# 3-Tier Node.js Application
+## 3-Tier Node.js Application
 
 A simple 3-tier application with:
 - **Frontend**: Node.js/Express serving HTML interface
